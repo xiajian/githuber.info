@@ -3,3 +3,9 @@ app/styles/*.css
 dist/
 .tmp/
 bower_components/
+
+*.swp
+*.swo
+
+Thumbs.db
+.DS_Store
